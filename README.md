@@ -62,6 +62,6 @@ https://github.com/Ileriayo/markdown-badges
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:haessae0@gmail.com">
-    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/haessae0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
